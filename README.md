@@ -2,6 +2,7 @@
 Memory Management System( OS Project IIITD 2nd Year ,section B)
 
 below are definitions of the functions defined in the code:
+
     mems_init():
         This function initializes the MeMS system.
         It opens the /dev/zero file and prepares the file descriptor (fd) for mapping memory.
